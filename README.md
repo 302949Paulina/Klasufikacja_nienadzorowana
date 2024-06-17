@@ -1,0 +1,2 @@
+# Klasufikacja_nienadzorowana
+Projekt klasyfikacja nienadzorowana
